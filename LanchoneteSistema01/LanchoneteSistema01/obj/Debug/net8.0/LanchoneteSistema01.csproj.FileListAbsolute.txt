@@ -1,0 +1,14 @@
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\bin\Debug\net8.0\LanchoneteSistema01.exe
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\bin\Debug\net8.0\LanchoneteSistema01.deps.json
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\bin\Debug\net8.0\LanchoneteSistema01.runtimeconfig.json
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\bin\Debug\net8.0\LanchoneteSistema01.dll
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\bin\Debug\net8.0\LanchoneteSistema01.pdb
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\LanchoneteSistema01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\LanchoneteSistema01.AssemblyInfoInputs.cache
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\LanchoneteSistema01.AssemblyInfo.cs
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\LanchoneteSistema01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\LanchoneteSistema01.dll
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\refint\LanchoneteSistema01.dll
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\LanchoneteSistema01.pdb
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\LanchoneteSistema01.genruntimeconfig.cache
+C:\Users\Aluno_Noite\source\repos\LanchoneteSistema01\LanchoneteSistema01\obj\Debug\net8.0\ref\LanchoneteSistema01.dll
